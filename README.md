@@ -7,7 +7,8 @@ Die Standardwerte hierfür sind:
 	  - Zusätzliche Zeit für das Töten von passiven Mobs: 15 Sekunden  
 	  - Zusätzliche Zeit für das Töten von aggressiven Mobs: 30 Sekunden  
 	  - Zeitabzug für Schaden: 60 Sekunden  
-Diese Werte können sowohl Ingame durch Commands angepasst werden oder einfach durch das Bearbeiten der Properties Datei
+Diese Werte können sowohl Ingame durch Commands angepasst werden oder einfach durch das Bearbeiten der Properties Datei  
+Diese Datei wird nach dem einmaligen Starten und Stoppen des Servers erstellt
 
 ![Bar & Commands](https://raw.githubusercontent.com/Bilastend/Countdown/master/timer%2Bcommands.png)
 
