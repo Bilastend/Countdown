@@ -3,9 +3,9 @@ version: ${project.version}
 main: com.bilastend.Countdown.Main
 api-version: 1.16
 authors: [ Bilastend ]
-description: Nach abgelaufenem Countdown stribt man, Mobs töten um länger zu überleben
+description: Nach abgelaufenem Countdown stribt man, Mobs töten um länger zu überleben, durch Schaden verliert man Zeit
 website: github.com/bilastend/
 
 commands:
   ch:
-    permission: lebensklau.command.ch
+    permission: countdown.command.ch
